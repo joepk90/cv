@@ -1,0 +1,481 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"post",
+				"post-info"
+			],
+			[
+				"Append",
+				"appendTo"
+			],
+			[
+				"app",
+				"appendTo"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"co",
+				"costOfPanels"
+			],
+			[
+				"get",
+				"getElementsById"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"backgrond",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"Ba",
+				"background-size"
+			],
+			[
+				"tx",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"pading",
+				"padding-right"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"I",
+				"inline-block"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bacg",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"i",
+				"img	Tag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"seri",
+				"serif"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"padi",
+				"padding"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 21552,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Br",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/parkkennaby/Projects/jparkkennabycv-responswidth/",
+		"/Users/parkkennaby/Projects/jparkkennabycv-responswidth//js"
+	],
+	"file_history":
+	[
+		"/Users/parkkennaby/Projects/vagrant1/public/portfolio/wp-content/themes/jparkkennaby-portfolio_s/less/main.less",
+		"/Users/parkkennaby/Projects/vagrant1/public/portfolio/wp-content/themes/jparkkennaby-portfolio_s/js/main.js",
+		"/Users/parkkennaby/Projects/vagrant1/public/portfolio/wp-content/themes/jparkkennaby-portfolio_s/template-parts/content.php",
+		"/Users/parkkennaby/Projects/vagrant1/public/portfolio/wp-content/themes/jparkkennaby-portfolio_s/index.php",
+		"/Users/parkkennaby/Projects/vagrant1/public/portfolio/wp-content/themes/jparkkennaby-portfolio_s/header.php",
+		"/Users/parkkennaby/Projects/vagrant1/public/portfolio/wp-content/themes/jparkkennaby-portfolio_s/functions.php",
+		"/Users/parkkennaby/Projects/vagrant1/public/portfolio/wp-content/themes/jparkkennaby-portfolio_s/less/extended-utilities.less",
+		"/Users/parkkennaby/Projects/vagrant1/public/portfolio/wp-content/themes/jparkkennaby-portfolio_s/archive.php",
+		"/Users/parkkennaby/Projects/vagrant1/public/portfolio/wp-content/themes/jparkkennaby-portfolio_s/footer.php",
+		"/Users/parkkennaby/Projects/vagrant1/public/portfolio/wp-content/themes/jparkkennaby-portfolio_s/less/bootstrap.less",
+		"/Users/parkkennaby/Projects/vagrant1/public/portfolio/wp-content/themes/jparkkennaby-portfolio_s/js/customizer.js",
+		"/Users/parkkennaby/Projects/vagrant1/public/portfolio/wp-content/themes/jparkkennaby-portfolio_s/less/jpk-variables.less",
+		"/Users/parkkennaby/Projects/vagrant1/public/portfolio/wp-content/themes/jparkkennaby-portfolio_s/style.css",
+		"/Users/parkkennaby/Projects/vagrant1/public/portfolio/wp-content/themes/underscores/less/bootstrap.less",
+		"/Users/parkkennaby/Projects/vagrant1/public/portfolio/wp-content/themes/jparkkennaby-portfolio_s/jparkkennaby-portfolio_s.sublime-project",
+		"/Users/parkkennaby/Projects/jparkkennaby-portfolio/index (DEPRE).html",
+		"/Users/parkkennaby/Projects/jparkkennaby-portfolio/css/main.css",
+		"/Users/parkkennaby/Projects/jparkkennaby-portfolio/index.html",
+		"/Users/parkkennaby/Projects/jparkkennaby-portfolio/less/bootstrap.less",
+		"/Users/parkkennaby/Projects/DTS-Technical_Challenge/DTS-Challenge-Final/web-designer/css/bootstrap.min.css",
+		"/Users/parkkennaby/Projects/jparkkennabycv-responswidth/less/custom.less",
+		"/Users/parkkennaby/Projects/jparkkennabycv-responswidth/less/main.less",
+		"/Users/parkkennaby/Projects/jparkkennabycv-responswidth/css/custom.css",
+		"/Users/parkkennaby/Projects/jparkkennabycv-responswidth/css/main.css",
+		"/Users/parkkennaby/Projects/jparkkennabycv-responswidth/css/examples.css",
+		"/Users/parkkennaby/Projects/jparkkennabycv-responswidth/css/bootstrap.css",
+		"/Users/parkkennaby/Projects/DTS-Technical_Challenge/web-designer-master-build/initializr/less/bootstrap.less",
+		"/Users/parkkennaby/Projects/DTS-Technical_Challenge/web-designer-master-build/initializr/less/custom.less",
+		"/Users/parkkennaby/Projects/DTS-Technical_Challenge/web-designer-master-build/initializr/less/buttons.less",
+		"/Users/parkkennaby/Projects/DTS-Technical_Challenge/web-designer-master-build/orginal navbar backup.html",
+		"/Users/parkkennaby/Projects/DTS-Technical_Challenge/web-designer-master-build/orginal navbar backup.hmtl",
+		"/Users/parkkennaby/Projects/DTS-Technical_Challenge/web-master/css/main.css",
+		"/Users/parkkennaby/Projects/DTS-Technical_Challenge/web-master/bootstrap-3.3.6/less/bootstrap.less",
+		"/Users/parkkennaby/Projects/DTS-Technical Challenge/web-master/index.html",
+		"/Users/parkkennaby/Projects/DTS-Technical Challenge/web-master/css/main.css",
+		"/Users/parkkennaby/Projects/DTS-Technical Challenge/web-master/less/custom.less",
+		"/Users/parkkennaby/Projects/DTS-Technical Challenge/web-master/less/bootstrap.less",
+		"/Users/parkkennaby/Projects/DTS-Technical Challenge/foundation-emails/index.html",
+		"/Users/parkkennaby/Projects/DTS-Technical Challenge/foundation-emails/css/foundation.css",
+		"/Users/parkkennaby/Projects/jparkkennabycv-responswidth/index.html",
+		"/Users/parkkennaby/Projects/vagrant1/public/ccs/index.php",
+		"/Users/parkkennaby/Projects/jparkkennabycv-responswidth/less/bootstrap.less",
+		"/Users/parkkennaby/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/parkkennaby/Projects/Funeral Plans/funeralplans/index.html",
+		"/Users/parkkennaby/Projects/Funeral Plans/funeralplans/css/custom.css",
+		"/Users/parkkennaby/Library/Application Support/Sublime Text 2/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/Users/parkkennaby/Library/Application Support/Sublime Text 2/Packages/User/bh_core.sublime-settings",
+		"/Users/parkkennaby/Projects/Funeral Plans/funeralplans/Test.html",
+		"/Users/parkkennaby/Projects/Funeral Plans/funeralplans/Form Test.html",
+		"/Users/parkkennaby/Projects/Funeral Plans/funeralplans/thankyou.html",
+		"/Users/parkkennaby/Projects/Funeral Plans/funeralplans/thanyou.html",
+		"/Users/parkkennaby/Projects/vagrant1/public/ccs/wp-content/themes/ccs/index.php",
+		"/Users/parkkennaby/Projects/vagrant1/public/ccs/wp-content/themes/ccs/style.css",
+		"/Users/parkkennaby/Projects/vagrant1/public/ccs/wp-content/themes/ccs/header.php",
+		"/Users/parkkennaby/Projects/vagrant1/public/ccs/wp-content/themes/ccs/inc/home-page.php",
+		"/Users/parkkennaby/Desktop/Renewable Incentive Fund/Solar Bootstrap Test.html",
+		"/Users/parkkennaby/Desktop/Test/Solar Bootstrap Test.html",
+		"/Users/parkkennaby/Desktop/Test/css/Custom_CSS.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/parkkennaby/Projects/vagrant1/public/portfolio/wp-content/themes/jparkkennaby-portfolio_s//less"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"        \n",
+			"post-content",
+			"img",
+			"transition",
+			"screen-reader-text",
+			"style",
+			"default",
+			"defailt",
+			"lead",
+			"sr-only",
+			"svg",
+			"src=\"img/",
+			"#fefefe;",
+			"  background: #fefefe;",
+			"container",
+			"row",
+			"container",
+			"background",
+			" <th>",
+			"underline",
+			"text-d",
+			"a {",
+			"a",
+			"dec",
+			"text-dec",
+			"text-decoration",
+			"font-fami",
+			"padding",
+			"margin",
+			"h5",
+			"font-",
+			"header",
+			"profileph",
+			"						<",
+			"img-center-sm",
+			"less",
+			"section10",
+			"section9",
+			"{\n",
+			"#section7",
+			"text-white",
+			"font-weight",
+			"mbhide",
+			"visib",
+			"visibili",
+			"pktrs",
+			"responsive",
+			"responsiveWidth",
+			"responsiveWidth:",
+			"responsiveWidth: 0",
+			"key",
+			"key skills",
+			"fp-prev",
+			"fp-controlArrow",
+			"4",
+			"h2",
+			"raleway",
+			"Playfair Display",
+			"#aboutus",
+			"why",
+			"well",
+			"default",
+			"brackethighlighter",
+			"brackethighlighter.default",
+			"default",
+			"highlight style",
+			"<div class=\"col-md-3\"></div>",
+			"<div class=\"col-md-1\"></div>",
+			"1400",
+			"span",
+			"   \n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"png",
+			"src=\"http://joe.parkkennaby.com/htmlexamples/natwest/img/",
+			"text-center-xs",
+			"section9",
+			"section8",
+			"hidden-md hidden-lg",
+			"Raleway"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 21552,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3447.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "jparkkennabycv.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

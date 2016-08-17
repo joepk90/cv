@@ -1,0 +1,19 @@
+{
+	"folders":
+	[
+		{
+			"path": "/"
+		}
+	],
+	"settings":
+    {
+        "less2css":
+        {
+            "lessBaseDir": "./less/",
+            "outputDir": "./css/",
+            "outputFile": "bootstrap.min.css",
+            "minify": true,
+            "main_file": "bootstrap.less"
+        }
+    }
+}
