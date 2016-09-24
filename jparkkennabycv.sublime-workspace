@@ -149,7 +149,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 21942,
+				"buffer_size": 21901,
 				"line_ending": "Windows"
 			}
 		},
@@ -219,10 +219,7 @@
 	"expanded_folders":
 	[
 		"/Users/parkkennaby/Projects/jparkkennabycv-responswidth/",
-		"/Users/parkkennaby/Projects/jparkkennabycv-responswidth//css",
-		"/Users/parkkennaby/Projects/jparkkennabycv-responswidth//cv",
-		"/Users/parkkennaby/Projects/jparkkennabycv-responswidth//fonts",
-		"/Users/parkkennaby/Projects/jparkkennabycv-responswidth//less"
+		"/Users/parkkennaby/Projects/jparkkennabycv-responswidth//cv"
 	],
 	"file_history":
 	[
@@ -303,6 +300,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"portfolio",
 			"fonts",
 			"#337ab7",
 			"337ab7",
@@ -404,7 +402,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -459,15 +457,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 21942,
+						"buffer_size": 21901,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								21047,
-								21047
+								20910,
+								20919
 							]
 						],
 						"settings":
@@ -476,10 +474,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 7192.0,
+						"translation.y": 7302.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -534,10 +532,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1688.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
